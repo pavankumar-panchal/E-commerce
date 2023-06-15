@@ -172,7 +172,7 @@
                             <input type="submit" value="Sing Up" id="submit" name="submit">
                         </div>
                         <div class="sec">
-                        <a href="http://localhost/mywork/oauth"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1PJmT_THldF0n5APcmt9p10utgu6KSw4cH2fQ5Xhpw&s"/> Sign in with Google</a>
+                        <a href="http://localhost/oauth"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1PJmT_THldF0n5APcmt9p10utgu6KSw4cH2fQ5Xhpw&s"/> Sign in with Google</a>
                         </div>
                         <div class="reg">
                             <span> Have account?<a href="login.php">Login</a></span>
